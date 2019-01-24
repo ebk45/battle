@@ -1,0 +1,10 @@
+source 'https://rubygems.org'
+
+gem 'sinatra'
+gem 'shotgun'
+gem 'capybara'
+gem 'selenium-webdriver'
+gem 'pry'
+gem 'rspec'
+gem 'pry-coolline'
+gem 'rack'
